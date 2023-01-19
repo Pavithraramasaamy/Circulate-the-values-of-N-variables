@@ -42,6 +42,8 @@ def circulate():
 ```
 
 ## Output:
+
 ![](./nvariables.png)
+
 ## Result:
 Thus the circulation of n variable successfully executed
